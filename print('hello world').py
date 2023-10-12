@@ -5,4 +5,5 @@ print('dev')
 #3aaaa
 #dafkelnmc
 #daf
-#branch 병합하고 삭제함 ㅅㄱ
+#아니 이거 이해가 안되네 시바것하하하하하하
+
